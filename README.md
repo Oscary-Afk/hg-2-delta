@@ -2,9 +2,10 @@
 
 <hdr>
 
-| NOMBRE | UBICACION | ALIAS |
-| ------ | ------ | ------ |
-|  JOSE FROMETA | CARACAS | BRAVO |
-|  ROGER MONTERO | CARACAS | ALFA |
-|  OSCARY RADA | CARACAS | DELTA |
-|  CARLA SE ME OLVIDO SU APELLIDO | CARACAS | CHARLIE |
+
+| Alias | Nombre | Ubicación |
+| ------ | ------ | ------ | 
+| Alfa | Roger Montero | Caracas |
+| Bravo | Jose Frometa | Caracas |
+| Charlie | Carlay Sivira | Caracas |
+| Delta | Oscary Rada | Caracas |
